@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9bc49b0.css",
-    "main.js": "/static/js/main.c921812a.js",
-    "static/js/787.90a922ae.chunk.js": "/static/js/787.90a922ae.chunk.js",
-    "index.html": "/index.html",
-    "main.c9bc49b0.css.map": "/static/css/main.c9bc49b0.css.map",
-    "main.c921812a.js.map": "/static/js/main.c921812a.js.map",
-    "787.90a922ae.chunk.js.map": "/static/js/787.90a922ae.chunk.js.map"
+    "main.css": "/fakestore-react/static/css/main.c9bc49b0.css",
+    "main.js": "/fakestore-react/static/js/main.b8aa9e8d.js",
+    "static/js/787.90a922ae.chunk.js": "/fakestore-react/static/js/787.90a922ae.chunk.js",
+    "index.html": "/fakestore-react/index.html",
+    "main.c9bc49b0.css.map": "/fakestore-react/static/css/main.c9bc49b0.css.map",
+    "main.b8aa9e8d.js.map": "/fakestore-react/static/js/main.b8aa9e8d.js.map",
+    "787.90a922ae.chunk.js.map": "/fakestore-react/static/js/787.90a922ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9bc49b0.css",
-    "static/js/main.c921812a.js"
+    "static/js/main.b8aa9e8d.js"
   ]
 }
