@@ -1,0 +1,11 @@
+.li-container{
+    list-style: none;
+}
+.li-container li{
+    margin-left: 30px;
+}
+.boss{
+    font-size: 18px;
+    font-weight: 550;
+    margin:20px 0;
+}
